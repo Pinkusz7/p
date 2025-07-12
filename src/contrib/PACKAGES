@@ -7,5 +7,5 @@ Imports: shiny, ggplot2, plotly, dplyr, tidyr, readxl, openxlsx, zip, rstatix, P
           shinyBS, multcomp, dunn.test, webshot, ggrepel, rlang, writexl
 Suggests: knitr, rmarkdown
 License: MIT + file LICENSE
-MD5sum: a5f5219205d83f1df6df970ab028c853
+MD5sum: 5aee7c256636f536c802193bd6daf155
 NeedsCompilation: no
